@@ -1,0 +1,3 @@
+DS0105EN - Module 2 - Lab: Git and GitHub via command line instructions (Optional)
+
+This text file has been created according to the command line lab.
